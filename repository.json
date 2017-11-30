@@ -4,6 +4,7 @@
 		{
 			"name": "fir-cli",
 			"details": "https://github.com/FIRHQ/fir-cli",
+			"description": "fir upload plugin",
 			"labels": ["fir"],
 			"author": "fir.im",
 			"platform": ["*"],
