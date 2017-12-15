@@ -1,0 +1,15 @@
+{
+	"schema_version": "1.0.0",
+	"packages": [
+		{
+			"name": "fir-cli",
+			"details": "https://github.com/flow-ci-plugin/plugin-fir-cli",
+			"description": "fir upload plugin for test",
+			"labels": ["fir"],
+			"author": "fir.im",
+			"platform": ["*"],
+			"tag": "1.4.9",
+			"latestCommit": "39bdaf9038e8edfd0a09ad03001531463c5fd625"
+		}
+	]
+}
