@@ -3,7 +3,7 @@
 	"packages": [
 		{
 			"name": "fir-cli",
-			"details": "https://github.com/flow-ci-plugin/plugin-fir-cli",
+			"source": "https://github.com/flow-ci-plugin/plugin-fir-cli",
 			"description": "fir upload plugin for test",
 			"labels": ["fir"],
 			"author": "fir.im",
