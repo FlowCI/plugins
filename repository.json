@@ -3,13 +3,23 @@
 	"packages": [
 		{
 			"name": "fir-cli",
-			"details": "https://github.com/FIRHQ/fir-cli",
+			"source": "https://github.com/FIRHQ/fir-cli",
 			"description": "fir upload plugin",
-			"labels": ["fir"],
+			"labels": ["fir", "uploader"],
 			"author": "fir.im",
 			"platform": ["*"],
-			"tag": "1.4.9",
-			"latestCommit": "1fcc7d483bb2683c040a3f86062787bc042d0d24"
+			"tag": "1.4.9.1",
+			"latestCommit": "2fb90dba50a0bc27b067c396c3e3f231cf3b04ac"
+		},
+		{
+			"name": "Git-Clone",
+			"source": "https://github.com/FlowCI/plugin-gitclone",
+			"description": "git clone plugin",
+			"labels": ["git", "clone"],
+			"author": "fir.im",
+			"platform": ["*"],
+			"tag": "0.1.3",
+			"latestCommit": "79561dc86534084abdd854b0d9a40c8dd6a45f72"
 		}
 	]
 }
