@@ -9,7 +9,7 @@
 			"author": "fir.im",
 			"platform": ["*"],
 			"tag": "1.4.9.1",
-			"latestCommit": "2fb90dba50a0bc27b067c396c3e3f231cf3b04ac"
+			"latestCommit": "5958a72dbaf709434069ab23ec1238a79f3f8132"
 		},
 		{
 			"name": "Git-Clone",
