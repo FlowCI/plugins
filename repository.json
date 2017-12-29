@@ -15,7 +15,7 @@
 			"name": "Git-Clone",
 			"source": "https://github.com/FlowCI/plugin-gitclone",
 			"description": "git clone plugin",
-			"labels": ["git"],
+			"labels": ["git", "clone"],
 			"author": "fir.im",
 			"platform": ["*"],
 			"tag": "0.1.3",
