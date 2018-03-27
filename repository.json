@@ -3,13 +3,13 @@
 	"packages": [
 		{
 			"name": "fir-cli",
-			"source": "https://github.com/FIRHQ/fir-cli",
+			"source": "https://github.com/yunheli/fir-cli",
 			"description": "fir upload plugin",
 			"labels": ["fir", "uploader"],
 			"author": "fir.im",
 			"platform": ["*"],
-			"tag": "1.4.9.1",
-			"latestCommit": "5958a72dbaf709434069ab23ec1238a79f3f8132"
+			"tag": "1.6.2",
+			"latestCommit": "14151a354ff5fd9b4d95b69b249bf1607dbba4f4"
 		},
 		{
 			"name": "Git-Clone",
@@ -20,6 +20,16 @@
 			"platform": ["*"],
 			"tag": "0.1.7",
 			"latestCommit": "ea5550fad581e18b992876a6c3643a15516778a7"
+		},
+		{
+			"name": "Artifact-Uploader",
+			"source": "https://github.com/yunheli/artifact_uploader",
+			"description": "Artifact uploader",
+			"labels": ["artifact", "uploader"],
+			"author": "fir.im",
+			"platform": ["*"],
+			"tag": "0.1.1",
+			"latestCommit": "47cfbefcef3f9e3f76189c41d2bfbb0d4822ecec"
 		}
 	]
 }
