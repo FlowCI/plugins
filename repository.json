@@ -1,35 +1,54 @@
-{
-	"schema_version": "1.0.0",
-	"packages": [
-		{
-			"name": "fir-cli",
-			"source": "https://github.com/yunheli/fir-cli",
-			"description": "fir upload plugin",
-			"labels": ["fir", "uploader"],
-			"author": "fir.im",
-			"platform": ["*"],
-			"tag": "1.6.2",
-			"latestCommit": "14151a354ff5fd9b4d95b69b249bf1607dbba4f4"
-		},
-		{
-			"name": "Git-Clone",
-			"source": "https://github.com/FlowCI/plugin-gitclone",
-			"description": "git clone plugin",
-			"labels": ["git", "clone"],
-			"author": "fir.im",
-			"platform": ["*"],
-			"tag": "0.1.7",
-			"latestCommit": "ea5550fad581e18b992876a6c3643a15516778a7"
-		},
-		{
-			"name": "Artifact-Uploader",
-			"source": "https://github.com/yunheli/artifact_uploader",
-			"description": "Artifact uploader",
-			"labels": ["artifact", "uploader"],
-			"author": "fir.im",
-			"platform": ["*"],
-			"tag": "0.1.1",
-			"latestCommit": "47cfbefcef3f9e3f76189c41d2bfbb0d4822ecec"
-		}
-	]
-}
+[
+	{
+		"name": "gitclone",
+		"source": "https://github.com/gy2006/flowci-plugin-gitclone",
+		"description": "git clone plugin",
+		"labels": [
+			"git",
+			"clone"
+		],
+		"author": "gy@flow.ci",
+		"version": "0.0.1"
+	},
+	{
+		"name": "dingtalk",
+		"source": "https://github.com/gy2006/flowci-plugin-dingtalk",
+		"description": "Send job status from dingtalk",
+		"labels": [
+			"dingtalk",
+			"message"
+		],
+		"author": "gy@flow.ci",
+		"version": "0.0.2"
+	},
+	{
+		"name": "docker-build",
+		"source": "https://github.com/gy2006/flowci-plugin-dockerbuild",
+		"description": "Build and push docker image to registry",
+		"labels": [
+			"docker"
+		],
+		"author": "gy@flow.ci",
+		"version": "0.0.1"
+	},
+	{
+		"name": "docker-clean",
+		"source": "https://github.com/gy2006/flowci-plugin-dockerclean",
+		"description": "clean docker image which created from docker-build plugin",
+		"labels": [
+			"docker"
+		],
+		"author": "gy@flow.ci",
+		"version": "0.0.1"
+	},
+	{
+		"name": "demo",
+		"source": "https://github.com/gy2006/flowci-plugin-demo",
+		"description": "Demo plugin",
+		"labels": [
+			"demo"
+		],
+		"author": "gy@flow.ci",
+		"version": "0.0.1"
+	}
+]
