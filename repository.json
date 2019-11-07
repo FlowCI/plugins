@@ -3,18 +3,17 @@
 		"name": "gitclone",
 		"source": "https://github.com/gy2006/flowci-plugin-gitclone",
 		"description": "git clone plugin",
-		"labels": [
-			"git",
-			"clone"
+		"tags": [
+			"git"
 		],
 		"author": "gy@flow.ci",
-		"version": "0.0.1"
+		"version": "1.0.0"
 	},
 	{
 		"name": "dingtalk",
 		"source": "https://github.com/gy2006/flowci-plugin-dingtalk",
 		"description": "Send job status from dingtalk",
-		"labels": [
+		"tags": [
 			"dingtalk",
 			"message"
 		],
@@ -25,7 +24,7 @@
 		"name": "docker-build",
 		"source": "https://github.com/gy2006/flowci-plugin-dockerbuild",
 		"description": "Build and push docker image to registry",
-		"labels": [
+		"tags": [
 			"docker"
 		],
 		"author": "gy@flow.ci",
@@ -35,7 +34,7 @@
 		"name": "docker-clean",
 		"source": "https://github.com/gy2006/flowci-plugin-dockerclean",
 		"description": "clean docker image which created from docker-build plugin",
-		"labels": [
+		"tags": [
 			"docker"
 		],
 		"author": "gy@flow.ci",
@@ -45,7 +44,7 @@
 		"name": "demo",
 		"source": "https://github.com/gy2006/flowci-plugin-demo",
 		"description": "Demo plugin",
-		"labels": [
+		"tags": [
 			"demo"
 		],
 		"author": "gy@flow.ci",
