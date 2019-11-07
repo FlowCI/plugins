@@ -49,5 +49,17 @@
 		],
 		"author": "gy@flow.ci",
 		"version": "0.0.1"
+	},
+	{
+		"name": "maven-test",
+		"source": "https://github.com/gy2006/flowci-plugin-maven-test",
+		"description": "Run test by mvn test and report to ci server",
+		"tags": [
+			"java",
+			"maven",
+			"test"
+		],
+		"author": "gy@flow.ci",
+		"version": "1.0.0"
 	}
 ]
