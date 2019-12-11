@@ -63,6 +63,17 @@
 		"version": "1.0.0"
 	},
 	{
+		"name": "maven-package",
+		"source": "https://github.com/gy2006/flowci-plugin-maven-package",
+		"description": "Build jar, and export path of jar files",
+		"tags": [
+			"java",
+			"maven"
+		],
+		"author": "gy@flow.ci",
+		"version": "1.0.0"
+	},
+	{
 		"name": "email-report",
 		"source": "https://github.com/gy2006/flowci-plugin-email-report",
 		"description": "send email report to flow users",
