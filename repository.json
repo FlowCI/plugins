@@ -74,6 +74,17 @@
 		"version": "1.0.0"
 	},
 	{
+		"name": "artifact-upload",
+		"source": "https://github.com/gy2006/flowci-plugin-artifact-upload",
+		"description": "Upload job artifact",
+		"tags": [
+			"artifact",
+			"upload"
+		],
+		"author": "gy@flow.ci",
+		"version": "1.0.0"
+	},
+	{
 		"name": "email-report",
 		"source": "https://github.com/gy2006/flowci-plugin-email-report",
 		"description": "send email report to flow users",
