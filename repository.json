@@ -74,6 +74,17 @@
 		"version": "1.0.0"
 	},
 	{
+		"name": "go-test",
+		"source": "https://github.com/gy2006/flowci-plugin-go-test",
+		"description": "Run go test with coverage report",
+		"tags": [
+			"golang",
+			"test"
+		],
+		"author": "gy@flow.ci",
+		"version": "1.0.0"
+	},
+	{
 		"name": "artifact-upload",
 		"source": "https://github.com/gy2006/flowci-plugin-artifact-upload",
 		"description": "Upload job artifact",
