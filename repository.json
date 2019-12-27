@@ -85,6 +85,17 @@
 		"version": "1.0.0"
 	},
 	{
+		"name": "go-lint",
+		"source": "https://github.com/gy2006/flowci-plugin-go-lint",
+		"description": "Run golintci-lint",
+		"tags": [
+			"golang",
+			"lint"
+		],
+		"author": "gy@flow.ci",
+		"version": "1.0.0"
+	},
+	{
 		"name": "artifact-upload",
 		"source": "https://github.com/gy2006/flowci-plugin-artifact-upload",
 		"description": "Upload job artifact",
