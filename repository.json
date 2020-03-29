@@ -21,26 +21,6 @@
 		"version": "0.0.2"
 	},
 	{
-		"name": "docker-runner",
-		"source": "https://github.com/gy2006/flowci-plugin-docker-runner",
-		"description": "Run bash script from docker container",
-		"tags": [
-			"docker"
-		],
-		"author": "32008001@qq.com",
-		"version": "1.0.0"
-	},
-	{
-		"name": "demo",
-		"source": "https://github.com/gy2006/flowci-plugin-demo",
-		"description": "Demo plugin",
-		"tags": [
-			"demo"
-		],
-		"author": "32008001@qq.com",
-		"version": "0.0.1"
-	},
-	{
 		"name": "maven-test",
 		"source": "https://github.com/gy2006/flowci-plugin-maven-test",
 		"description": "Run test by mvn test and report to ci server",
