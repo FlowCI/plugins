@@ -14,8 +14,7 @@
 		"source": "https://github.com/gy2006/flowci-plugin-dingtalk",
 		"description": "Send job status from dingtalk",
 		"tags": [
-			"dingtalk",
-			"message"
+			"notification"
 		],
 		"author": "32008001@qq.com",
 		"version": "0.0.2"
@@ -91,7 +90,7 @@
 		"source": "https://github.com/gy2006/flowci-plugin-email-report",
 		"description": "send email report to flow users",
 		"tags": [
-			"email"
+			"notification"
 		],
 		"author": "32008001@qq.com",
 		"version": "1.0.0"
