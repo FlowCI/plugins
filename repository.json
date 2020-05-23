@@ -86,9 +86,9 @@
 		"version": "1.0.0"
 	},
 	{
-		"name": "email-report",
-		"source": "https://github.com/gy2006/flowci-plugin-email-report",
-		"description": "send email report to flow users",
+		"name": "email-notify",
+		"source": "https://github.com/gy2006/flowci-plugin-email-notify",
+		"description": "send email notifcation to flow users",
 		"tags": [
 			"notification"
 		],
