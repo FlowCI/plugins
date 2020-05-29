@@ -10,16 +10,6 @@
 		"version": "1.0.0"
 	},
 	{
-		"name": "dingtalk",
-		"source": "https://github.com/gy2006/flowci-plugin-dingtalk",
-		"description": "Send job status from dingtalk",
-		"tags": [
-			"notification"
-		],
-		"author": "32008001@qq.com",
-		"version": "0.0.2"
-	},
-	{
 		"name": "maven-test",
 		"source": "https://github.com/gy2006/flowci-plugin-maven-test",
 		"description": "Run test by mvn test and report to ci server",
@@ -87,7 +77,7 @@
 	},
 	{
 		"name": "email-notify",
-		"source": "https://github.com/gy2006/flowci-plugin-email-notify",
+		"source": "https://github.com/flowci-plugins/email-notify.git",
 		"description": "send email notifcation to flow users",
 		"tags": [
 			"notification"
