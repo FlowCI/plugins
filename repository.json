@@ -84,5 +84,16 @@
 		],
 		"author": "32008001@qq.com",
 		"version": "1.0.0"
+	},
+	{
+		"name": "sonarqube",
+		"source": "https://github.com/flowci-plugins/sonarqube.git",
+		"description": "Execute sonarqube scanner for your project",
+		"tags": [
+			"test",
+			"sonarqube"
+		],
+		"author": "32008001@qq.com",
+		"version": "0.0.1"
 	}
 ]
