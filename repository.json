@@ -76,6 +76,17 @@
 		"version": "1.0.0"
 	},
 	{
+		"name": "report-upload",
+		"source": "https://github.com/flowci-plugins/report-upload.git",
+		"description": "Upload report",
+		"tags": [
+			"report",
+			"upload"
+		],
+		"author": "32008001@qq.com",
+		"version": "1.0.0"
+	},
+	{
 		"name": "email-notify",
 		"source": "https://github.com/flowci-plugins/email-notify.git",
 		"description": "send email notifcation to flow users",
