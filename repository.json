@@ -106,5 +106,15 @@
 		],
 		"author": "32008001@qq.com",
 		"version": "0.0.1"
+	},
+	{
+		"name": "android-sdk-setup",
+		"source": "https://github.com/flowci-plugins/android-sdk-setup.git",
+		"description": "Install android sdk",
+		"tags": [
+			"android"
+		],
+		"author": "32008001@qq.com",
+		"version": "1.0.0"
 	}
 ]
