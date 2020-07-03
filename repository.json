@@ -116,5 +116,15 @@
 		],
 		"author": "32008001@qq.com",
 		"version": "1.0.0"
+	},
+	{
+		"name": "android-signing",
+		"source": "https://github.com/flowci-plugins/android-signing.git",
+		"description": "Sign android apk from ci secret",
+		"tags": [
+			"android"
+		],
+		"author": "32008001@qq.com",
+		"version": "1.0.0"
 	}
 ]
