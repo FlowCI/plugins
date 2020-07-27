@@ -10,29 +10,6 @@
 		"version": "1.0.0"
 	},
 	{
-		"name": "maven-test",
-		"source": "https://github.com/flowci-plugins/maven-test.git",
-		"description": "Run test by mvn test and report to ci server",
-		"tags": [
-			"java",
-			"maven",
-			"test"
-		],
-		"author": "32008001@qq.com",
-		"version": "1.0.0"
-	},
-	{
-		"name": "maven-package",
-		"source": "https://github.com/flowci-plugins/maven-package.git",
-		"description": "Build jar, and export path of jar files",
-		"tags": [
-			"java",
-			"maven"
-		],
-		"author": "32008001@qq.com",
-		"version": "1.0.0"
-	},
-	{
 		"name": "maven-runner",
 		"source": "https://github.com/flowci-plugins/maven-runner.git",
 		"description": "Run maven cmd",
