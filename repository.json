@@ -44,6 +44,17 @@
 		"version": "1.0.0"
 	},
 	{
+		"name": "junit-report-uploader",
+		"source": "https://github.com/flowci-plugins/junit-report-uploader.git",
+		"description": "Run maven cmd",
+		"tags": [
+			"java",
+			"maven"
+		],
+		"author": "32008001@qq.com",
+		"version": "1.0.0"
+	},
+	{
 		"name": "go-test",
 		"source": "https://github.com/flowci-plugins/go-test.git",
 		"description": "Run go test with coverage report",
