@@ -55,6 +55,17 @@
 		"version": "1.0.0"
 	},
 	{
+		"name": "jacoco-report-uploader",
+		"source": "https://github.com/flowci-plugins/jacoco-report-uploader.git",
+		"description": "Upload jacoco report",
+		"tags": [
+			"java",
+			"jacoco"
+		],
+		"author": "32008001@qq.com",
+		"version": "1.0.0"
+	},
+	{
 		"name": "go-test",
 		"source": "https://github.com/flowci-plugins/go-test.git",
 		"description": "Run go test with coverage report",
