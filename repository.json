@@ -2,6 +2,7 @@
 	{
 		"name": "gitclone",
 		"source": "https://github.com/flowci-plugins/gitclone.git",
+		"source_cn": "https://gitee.com/flowci-plugins/gitclone.git",
 		"description": "git clone plugin",
 		"tags": [
 			"git"
@@ -12,6 +13,7 @@
 	{
 		"name": "maven-runner",
 		"source": "https://github.com/flowci-plugins/maven-runner.git",
+		"source_cn": "https://gitee.com/flowci-plugins/maven-runner.git",
 		"description": "Run maven cmd",
 		"tags": [
 			"java",
@@ -23,6 +25,7 @@
 	{
 		"name": "junit-report-uploader",
 		"source": "https://github.com/flowci-plugins/junit-report-uploader.git",
+		"source_cn": "https://gitee.com/flowci-plugins/junit-report-uploader.git",
 		"description": "Upload junit report",
 		"tags": [
 			"java",
@@ -34,6 +37,7 @@
 	{
 		"name": "jacoco-report-uploader",
 		"source": "https://github.com/flowci-plugins/jacoco-report-uploader.git",
+		"source_cn": "https://gitee.com/flowci-plugins/jacoco-report-uploader.git",
 		"description": "Upload jacoco report",
 		"tags": [
 			"java",
@@ -45,6 +49,7 @@
 	{
 		"name": "go-test",
 		"source": "https://github.com/flowci-plugins/go-test.git",
+		"source_cn": "https://gitee.com/flowci-plugins/go-test.git",
 		"description": "Run go test with coverage report",
 		"tags": [
 			"golang",
@@ -56,6 +61,7 @@
 	{
 		"name": "go-lint",
 		"source": "https://github.com/flowci-plugins/go-lint.git",
+		"source_cn": "https://gitee.com/flowci-plugins/go-lint.git",
 		"description": "Run golintci-lint",
 		"tags": [
 			"golang",
@@ -67,6 +73,7 @@
 	{
 		"name": "npm-runner",
 		"source": "https://github.com/flowci-plugins/npm-runner.git",
+		"source_cn": "https://gitee.com/flowci-plugins/npm-runner.git",
 		"description": "Run npm command and upload report",
 		"tags": [
 			"npm"
@@ -77,6 +84,7 @@
 	{
 		"name": "artifact-upload",
 		"source": "https://github.com/flowci-plugins/artifact-upload.git",
+		"source_cn": "https://gitee.com/flowci-plugins/artifact-upload.git",
 		"description": "Upload job artifact",
 		"tags": [
 			"artifact",
@@ -88,6 +96,7 @@
 	{
 		"name": "report-upload",
 		"source": "https://github.com/flowci-plugins/report-upload.git",
+		"source_cn": "https://gitee.com/flowci-plugins/report-upload.git",
 		"description": "Upload report",
 		"tags": [
 			"report",
@@ -99,6 +108,7 @@
 	{
 		"name": "email-notify",
 		"source": "https://github.com/flowci-plugins/email-notify.git",
+		"source_cn": "https://gitee.com/flowci-plugins/email-notify.git",
 		"description": "send email notifcation to flow users",
 		"tags": [
 			"notification"
@@ -109,6 +119,7 @@
 	{
 		"name": "sonarqube",
 		"source": "https://github.com/flowci-plugins/sonarqube.git",
+		"source_cn": "https://gitee.com/flowci-plugins/sonarqube.git",
 		"description": "Execute sonarqube scanner for your project",
 		"tags": [
 			"test",
@@ -120,6 +131,7 @@
 	{
 		"name": "android-sdk-setup",
 		"source": "https://github.com/flowci-plugins/android-sdk-setup.git",
+		"source_cn": "https://gitee.com/flowci-plugins/android-sdk-setup.git",
 		"description": "Install android sdk",
 		"tags": [
 			"android"
@@ -130,6 +142,7 @@
 	{
 		"name": "android-signing",
 		"source": "https://github.com/flowci-plugins/android-signing.git",
+		"source_cn": "https://gitee.com/flowci-plugins/android-signing.git",
 		"description": "Sign android apk from ci secret",
 		"tags": [
 			"android"
